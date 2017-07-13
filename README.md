@@ -14,7 +14,7 @@
 
 + It Helps The Program Talk To The ComputerPatel
 
-##  parthvader parthp
+##  parthvader
 
 shell 
 sudo startxfce4
