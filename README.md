@@ -6,10 +6,10 @@
 + RAM
 + Hard Drive
 
-##What Is A Program
+## What Is A Program
 
 + It Is Something That Processes The Input And Shows The Output
 
-##What Is An Operating System
+## What Is An Operating System
 
-+ It Helps The Program Talk To The Computer
++ It Helps The Program Talk To The ComputerPatel
