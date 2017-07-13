@@ -30,6 +30,6 @@ sudo startxfce4
 + Press ctrl alt t Is how to start a session 
 + Type shell 
 + Is how you start a session 
-+ Type sudo startxfce
++ Type `sudo startxfce`
 + Be carefull with "Sudo" it is a powerful comand
 
