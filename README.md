@@ -52,10 +52,10 @@ sudo startxfce4
 + Google chrome
 
 ## Data Types I Learned So Far
- 
-+ Int
-+ Float
-+ Char
-+ Long 
-+ Short
 
++ Int- a normal number
++ Float- a number with decimal 
++ Char- a letter
++ Long- a big number
++ Short- a small number
++ String- a word.
