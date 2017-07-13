@@ -16,8 +16,10 @@
 
 ##  parthvader
 
+```
 shell 
 sudo startxfce4
+```
 
 ## Summary of lesson: 
 
@@ -30,3 +32,4 @@ sudo startxfce4
 + Is how you start a session 
 + Type sudo startxfce
 + Be carefull with "Sudo" it is a powerful comand
+
