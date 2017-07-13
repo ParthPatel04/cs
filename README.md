@@ -52,10 +52,20 @@ sudo startxfce4
 + Google chrome
 
 ## Data Types I Learned So Far
-
 + Int- a normal number
 + Float- a number with decimal 
 + Char- a letter
 + Long- a big number
-+ Short- a small number
++ Short- a small nuumber
 + String- a word.
+
+## All Commands I Know 
+
++ sudo- Let's you run a command as admin
++ ls- Shows you all of your files
++ pwd- Shows you where you are
++ git- it's like google drive for code
++ cd- Changes were you are
++ apt- Installs stuff
+
+
