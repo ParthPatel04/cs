@@ -51,3 +51,11 @@ sudo startxfce4
 + Sublime Text
 + Google chrome
 
+## Data Types I Learned So Far
+ 
++ Int
++ Float
++ Char
++ Long 
++ Short
+
