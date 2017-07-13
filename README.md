@@ -14,7 +14,7 @@
 
 + It Helps The Program Talk To The ComputerPatel
 
-##  parthvader
+##  Installing Linix On A Chromebook
 
 ```
 shell 
@@ -32,4 +32,22 @@ sudo startxfce4
 + Is how you start a session 
 + Type `sudo startxfce`
 + Be carefull with "Sudo" it is a powerful comand
+
+## Pros and Cons of Linux 
+### Pros: 
+
++ It’s open source everyone can contribute
++ It’s secure 
++ It’s very customizable
++ They are a tons developing tools.
++ It’s free
+
+### Cons: 
+
++ There's no company to make sure things happen on time. 
+
+## Things we installed 
+
++ Sublime Text
++ Google chrome
 
