@@ -6,7 +6,12 @@ public class Input{
 
 		Scanner scan = new Scanner(System.in);
 		String name = scan.nextLine();
+		if (name.equals("Parth")){ 
+			System.out.println("Hello Master, what can I do for you.");
 
-		System.out.println("Hello " + name);
+		}else{	
+			System.out.println("Hello " + name);
+
+		}
 	}
 }

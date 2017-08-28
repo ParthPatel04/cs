@@ -68,4 +68,15 @@ sudo startxfce4
 + cd- Changes were you are
 + apt- Installs stuff
 
+### How to compile and run Java code
+
+To compile:
+```
+javac File.java
+```
+
+To run
+```
+java File
+```
 
