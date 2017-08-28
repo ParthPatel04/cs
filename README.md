@@ -80,3 +80,21 @@ To run
 java File
 ```
 
+### How to push something to GitHub
+
+To check status
+```
+git status
+```
+To add files
+```
+git add -A
+```
+To Commit
+```
+git commit -m "Message"
+```
+To push
+```
+git push
+```
