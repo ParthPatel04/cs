@@ -10,7 +10,7 @@ public class Input{
 			System.out.println("Hello Master, welcome to the Imperial Data Network, what can I do for you.");
 
 		}else{	
-			System.out.println("Hello " + name);
+			System.out.println("I do not know you " + name);
 
 		}
 	}
