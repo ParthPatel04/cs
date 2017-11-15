@@ -7,7 +7,7 @@ public class ForTest{
 		int num = scan.nextInt();
 
 		for (int counter = 0; counter < num; counter++) {
-			System.out.println("Hello");
+			System.out.println("Hello"); 
 		
 		}
 	}
