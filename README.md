@@ -1,4 +1,20 @@
-# cs
+# CS
+
+## What is Computer Scicnce?
+
+Computer Scicnce is the study of the layers of abstraction that make that computing experience possible.
+
+## What is a layer of abstraction?
+
+A Layer of abstraction allows us to use anything without knowing how it works.
+
+## What is an exanple of a layer of abstraction?
+
+The guy using the phone does not need to know how to make the phone, but he needs to know how to use the phone.
+
+## What is an example of a layer of abstraction in Computer Science?
+
+You don't need to know how to make System.out.println to use it.
 
 ## Parts of a computer
 
